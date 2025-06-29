@@ -1,0 +1,52 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Fahad's Personal Website</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 40px;
+            padding: 20px;
+            color: #333;
+        }
+        .container {
+            background-color: #fff;
+            padding: 30px;
+            border-radius: 8px;
+            max-width: 700px;
+            margin: auto;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            text-align: center;
+            color: #2c3e50;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            margin: 10px 0;
+        }
+        .label {
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>About Fahad</h1>
+        <ul>
+            <li><span class="label">Name:</span> Fahad</li>
+            <li><span class="label">Age:</span> 12</li>
+            <li><span class="label">Hobbies:</span> Gaming (Roblox, Minecraft), Reading</li>
+            <li><span class="label">Favorite TV Show:</span> Breaking Bad</li>
+            <li><span class="label">Favorite Book:</span> None</li>
+            <li><span class="label">Skills:</span> Scratch Coding, Canva, Google Docs, PowerPoint, Poster Designing</li>
+        </ul>
+    </div>
+</body>
+</html>
